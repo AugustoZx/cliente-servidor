@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Users\autologon\Documents\augusto\Cliente-servidor\Aula03\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\920339402.index
+\exemploAula4\src\main\java
+C:\Users\autologon\Documents\augusto\Cliente-servidor\Aula03\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\768385071.index
+\projetoAula4\src\main\java
+C:\Users\autologon\Documents\augusto\Cliente-servidor\Aula03\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2977794185.index
+\exemploAula5\src\main\java
